@@ -4,5 +4,14 @@ header {
 
 .info h2 {
     background-color: blueviolet;
-    text-decoration-color: darkgreen;
+    color: orange;
+}
+
+img {
+    width: 200px;
+}
+
+h3 {
+    background-color: blue;
+    color: red ;
 }
